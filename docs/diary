@@ -114,107 +114,96 @@ Finished my lightning demo slides for the learning product.
 
 
 Ferdinand & Wiktoria have finished writing up the script's questions:
-Question 1: Who has this problem, and what is actually happening to them?
 
-Residents of Ulm who want to buy their vegetables and other foods locally instead of in the supermarket.
-Most people, especially younger generations, get their food, such as vegetables, dairy products, and meat, from the nearest supermarket.
-On the other hand, there are the farmers themselves who sell their products at these farmers' markets.
-The shrinking number of customers and visitors at these markets is disadvantageous for the farmers because they sell fewer products.
-This could lead to multiple stands closing because they earn less money from fewer customers.
-Buying food from local farmers can be more sustainable than getting it from the supermarket.
+Question 1: Who has this problem, and what is actually happening to them?
+- Residents of Ulm who want to buy their vegetables and other foods locally instead of in the supermarket.
+- Most people, especially younger generations, get their food, such as vegetables, dairy products, and meat, from the nearest supermarket.
+- On the other hand, there are the farmers themselves who sell their products at these farmers' markets.
+- The shrinking number of customers and visitors at these markets is disadvantageous for the farmers because they sell fewer products.
+- This could lead to multiple stands closing because they earn less money from fewer customers.
+- Buying food from local farmers can be more sustainable than getting it from the supermarket.
 
 Question 2: Given what we now know, what might we build?
-
 An app/website for mobile devices that works as a local map of Ulm, with various points of interest representing local farmers' markets.
 Examples include:
-Ulmer Wochenmarkt (Münsterplatz)
-Söflinger Wochenmarkt
-Wiblinger Wochenmarkt
-Wochenmarkt am Eselsberg
-Wochenmarkt am Weststadthaus
-Users are able to interact with the points of interest on the map.
+- Ulmer Wochenmarkt (Münsterplatz)
+- Söflinger Wochenmarkt
+- Wiblinger Wochenmarkt
+- Wochenmarkt am Eselsberg
+- Wochenmarkt am Weststadthaus
+- Users are able to interact with the points of interest on the map.
 Each market provides information about:
-Opening hours
-Assortment
-Number of customers/visitors per hour
-Locally photographed images showing what the different farmers' markets look like
+- Opening hours
+- Assortment
+- Number of customers/visitors per hour
+- Locally photographed images showing what the different farmers' markets look like
 
 Question 3: What things exist in this system, and how do they relate?
-
 The question is not quite answerable at the moment.
 Our plan is to build a system containing:
-A map of Ulm with the different farmers' markets as points of interest
-Images showing the different markets
-Information about the markets, such as number of customers/visitors, opening hours, and assortment
-Together, these elements will relate to each other and provide the consumer with a clean overview of the farmers' markets in Ulm containing everything they want to know.
+- A map of Ulm with the different farmers' markets as points of interest
+- Images showing the different markets
+- Information about the markets, such as number of customers/visitors, opening hours, and assortment
+- Together, these elements will relate to each other and provide the consumer with a clean overview of the farmers' markets in Ulm containing everything they want to know.
 
 Question 4: How is all of it arranged, and what does a screen contain?
-
-The screen contains a map with various points of interest representing the markets.
-The points of interest will be highlighted during opening hours.
+- The screen contains a map with various points of interest representing the markets.
+- The points of interest will be highlighted during opening hours.
 The website contains information about:
-Opening hours
-Number of visitors/customers/clients
-Assortment
-Number of sales stands
+- Opening hours
+- Number of visitors/customers/clients
+- Assortment
+- Number of sales stands
 A route planner leads to the nearest or selected farmers' market.
-When opening the website, the user is shown a map with the farmers' markets as points of interest.
-The user can click on a market of their choice, which opens an interface containing images and all the necessary information.
+- When opening the website, the user is shown a map with the farmers' markets as points of interest.
+- The user can click on a market of their choice, which opens an interface containing images and all the necessary information.
 
 Question 5: What does it actually look and feel like?
-
 Type:
-
 A friendly typeface for headlines and a sans-serif font for normal text.
 
 Colour:
-
 The map consists of green and white elements, complementing a natural and sustainable environment because most of the farmers source their food naturally.
 Red map markers indicate the locations of the different markets.
 
 Motion:
-
 If a market is open at a certain time, its marker will contain an animation indicating its opening hours.
 
 States:
-
 Most of the elements work together, such as the map, images, and information about the farmers' markets.
 
 Craft:
-
 We are trying to implement a good amount of attention to detail.
 
 What are we building and why?
-
-We are building a website that contains information about the different farmers' markets in Ulm.
-We are doing this to increase awareness of these markets, so people might buy from them again or more often than before.
+- We are building a website that contains information about the different farmers' markets in Ulm.
+- We are doing this to increase awareness of these markets, so people might buy from them again or more often than before.
 
 Who do we think it is for?
-
-For everyone, but especially for the younger generation, who might not be familiar with local farmers' markets.
-We want to encourage younger people to buy food from local stands again.
+- For everyone, but especially for the younger generation, who might not be familiar with local farmers' markets.
+- We want to encourage younger people to buy food from local stands again.
 
 How far does the impact reach?
-
-Across the different quarters of Ulm.
-We want to build a map containing different points of interest across Ulm.
+- Across the different quarters of Ulm.
+- We want to build a map containing different points of interest across Ulm.
 These include, for example:
-Ulmer Wochenmarkt (Münsterplatz)
-Söflinger Wochenmarkt
-Wiblinger Wochenmarkt
-Wochenmarkt am Eselsberg
-Wochenmarkt am Weststadthaus
+- Ulmer Wochenmarkt (Münsterplatz)
+- Söflinger Wochenmarkt
+- Wiblinger Wochenmarkt
+- Wochenmarkt am Eselsberg
+- Wochenmarkt am Weststadthaus
 
 How will we know if it worked?
-
-If there is a rise in customers at local farmers' markets.
-The ideal concept of our website is that it influences residents of Ulm to start buying their food from local sellers.
+- If there is a rise in customers at local farmers' markets.
+- The ideal concept of our website is that it influences residents of Ulm to start buying their food from local sellers.
 
 How long do we have and what can we spend?
-
 We have time until January.
 
 What could go wrong?
+- Not gaining enough information about the different markets.
+- Not finding enough people to interview.
+- The website does not gain enough recognition among the people.
 
 Not gaining enough information about the different markets.
 Not finding enough people to interview.
