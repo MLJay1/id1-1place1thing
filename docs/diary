@@ -205,3 +205,85 @@ What could go wrong?
 - Not finding enough people to interview.
 - The website does not gain enough recognition among the people.
 
+
+
+Script-tasks: Wiktoria
+
+03a - How Memory Works:
+1.: Food Delivery Order:
+
+Step 1: Restaurant selection 
+- User selects right place to order food
+
+Step 2: Browsing; adding items
+- 🔴 User mentally calculates running total of prices to reach minimum order value
+- -> Show live cart total (fixed at top)
+
+Step 3: Multiple Variants
+- 🔴 User must remember which article has which variation when ordering multiple items
+- → Display variants clearly in cart summary
+
+Step 4: Cart review and changes
+
+Step 5: Address Entry
+-  First-time users must recall complete address
+- -> Save addresses, offer as defaults
+
+Step 6: Payment selection
+- 🔴 User must choose payment method and remember details (e.g., prepare cash for change)
+- -> Save default payment method, ask for confirmation only
+
+Step 7: Delivery-Tracking
+- 🔴 User repeatedly checks app instead of being notified
+- -> Send push notifications (order confirmed, preparing, on the way, arriving)
+
+
+2.: Online Doctor Appointment Booking 
+
+Step 1: Doctor/Speciality Search
+
+Step 2: Available Appointments
+- User must remember and compare multiple appointment times by clicking back and forth
+- -> display all available appointments in calendar overview on one page
+
+Step 3: Reason for Appointment
+- User must categorize symptoms correctly and is uncertain if their free text descriptions fits
+- -> Provide predefined categories/checkboxes instead of free text input
+
+Step 4: Personal Data Confirmation
+
+Step 5: Insurance Info
+- User must recall insurance number
+- User must figure out: „Does my insurance cover it or do I have to pay privately?“ (Depending on the type of appointment)
+- -> save insurance data, allow photo of insurance card, clarify cost question
+
+Step 6: Final Confirmation
+
+
+03b - Mental Models and Learnability
+
+chosen product: Spotify
+- What I believe happens when I press the main button (The „play“-button): The song just starts playing
+- What actually happens: connection to Spotify’s servers is established - song is streamed - there could be a short delay while the song buffers - license check runs (Premium/Free) - Playback position syncs - song is stored in your cache
+
+chosen product: Gmail-App:
+- What I believe happens when I press the main button (The „send E-mail“-button): The email gets sent
+- What actually happens: email is first moved to Outbox folder - It’s then uploaded to the mail server -The server processes it and sends it through various mail servers to the recipient - there could be delays (slow servers, network unstable) - (email could fail: land in recipient’s spam folder, invalid address,..)
+
+
+04a - Prediction and Surprise
+My  Lightphone-Design: 
+
+1.: Music-app: 
+- User sees playlist but unclear how to navigate to the „Now-Playing“ view
+- Navigation between screens not clearly signaled
+
+2.: Transport-App: 
+- Departures list looks static with no visual cues of interactivity
+- User doesn’t know if entries are tappable or just informstional
+
+3.: Contacts/Messages: 
+- Contacts detail has „call“ and „message“ buttons
+- Messages chat doesn’t have these buttons
+- User expects consistent interaction patterns
+
