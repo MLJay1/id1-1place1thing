@@ -1,4 +1,5 @@
 30.09 14:10
+Author: Johann
 Julia, Ferdinand, Johann:
 Brainstorming ideas for core concept. Setting up GitHub and FigJam structure and shared workspaces. Structuring the work ahead.
 
@@ -25,11 +26,11 @@ We decided on the farmers market for now, as it has the most promise in terms of
 
 
 01.10 14:30
-Johann:
+Author: Johann
 Reading 01 through 04a, and 06.
 
 15:45-16:45
-Observing Wochenmarkt Eselsberg.
+Observing Wochenmarkt Eselsberg with Ferdinand. Entries below:
 
 Ferdinand:
 Anzahl Stände: 5
@@ -80,7 +81,7 @@ Witziges, freundliches Branding/Werbung, Sprüche
 
 
 05.10.2026 17:30
-Johann:
+Author: Johann
 Started work on lightning demos and set up a shared presentation file. 
 Looking for apps that could fit the criteria. I'm working on a 'learning product', Julia's working on a guide demo.
 Ferdinand and Wiktoria are working on answering the five questions from the script.
@@ -88,3 +89,22 @@ Ferdinand and Wiktoria are working on answering the five questions from the scri
 Possible learning app ideas:
 - Blinkist: 15-min podcasts
 - Brilliant.org: online lectures
+- LinkedIn Learning
+
+Decided on Blinkist for now:
+Blinkist as an audio Podcast app costs its users attention in short, repeated fragments.
+At it's core are short audio sessions (roughly 15 minutes), 
+which are supposed to give you the central ideas of a much longer book in a condensed form. 
+They are intentionally positioned as things to listen to while working, travelling, doing chores, etc. 
+As far as cognitive load goes, the user still has to listen and understand the material. 
+As condensed books, the podcasts must necessarily remove some of the content of the original works, 
+meaning not all arguments, examples, context and nuance from the original author are retained. 
+An additional aspect is user retention/gamification where there are daily personalized recommendations (algorithms).
+
+Interestingly, in this way blinkist can capture previously quiet moments: 
+If a user would have previously spent 15 minutes on the train daydreaming, now their attention is spent on an audio podcast.
+
+
+
+It teaches in a highly dynamic way where you can learn something pretty much
+anywhere at any time due to the bite-sized nature of the podcasts and it being a phone app, instead of sitting down at a desk and reading a book. 
