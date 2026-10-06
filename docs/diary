@@ -207,7 +207,50 @@ What could go wrong?
 
 
 
+6.10.2026
+10:53
 Script-tasks: Wiktoria
+
+02a - Abstraction and Grouping 
+
+Blur Test Results: „Portfolio Website“
+
+„Projects“-Page:
+Intended:
+- Images read as dominant group
+- Text descriptions grouped together 
+- Keywords as separate group
+
+Recommendations:
+-  Date and category feel disconnected from the project -> Move date and category closer to project title
+-  Horizontal layout could be reconsidered (text left, images right -> new layout: image on top; description and tags below
+
+„About Me“-Page:
+Intended: 
+- „ZUR PERSON“ and text section works well
+- Overall structure clear
+
+Recommendations:
+- Not enough spacing between sections (Education and Skills) -> increase spacing
+- Skill categories not clearly distinguished from each other -> increase spacing between them 
+
+
+02b - Contrast, Convention and Metaphor
+
+„Portfolio Website“ - Homescreen:
+„Winner“: Large name has the primary attention 
+
+Could be quieter: 
+- „Studentin. Digital Media“ -> smaller or lighter color
+- „Typografie, Layout“ -> smaller or lighter color
+
+„About Me“-Page:
+„Winner“: The „Über mich“ description should have primary attention
+
+Could be quieter: 
+- „ZUR PERSON“ -> could be a little bit smaller 
+- „AUSBILDUNG & ERFAHRUNG“ and „KENNTNISSE“ -> reduce font size
+
 
 03a - How Memory Works:
 1.: Food Delivery Order:
@@ -216,11 +259,11 @@ Step 1: Restaurant selection
 - User selects right place to order food
 
 Step 2: Browsing; adding items
-- 🔴 User mentally calculates running total of prices to reach minimum order value
+-  User mentally calculates running total of prices to reach minimum order value
 - -> Show live cart total (fixed at top)
 
 Step 3: Multiple Variants
-- 🔴 User must remember which article has which variation when ordering multiple items
+-  User must remember which article has which variation when ordering multiple items
 - → Display variants clearly in cart summary
 
 Step 4: Cart review and changes
@@ -230,11 +273,11 @@ Step 5: Address Entry
 - -> Save addresses, offer as defaults
 
 Step 6: Payment selection
-- 🔴 User must choose payment method and remember details (e.g., prepare cash for change)
+-  User must choose payment method and remember details (prepare cash for change)
 - -> Save default payment method, ask for confirmation only
 
 Step 7: Delivery-Tracking
-- 🔴 User repeatedly checks app instead of being notified
+-  User repeatedly checks app instead of being notified
 - -> Send push notifications (order confirmed, preparing, on the way, arriving)
 
 
@@ -280,10 +323,10 @@ My  Lightphone-Design:
 
 2.: Transport-App: 
 - Departures list looks static with no visual cues of interactivity
-- User doesn’t know if entries are tappable or just informstional
+- User doesn’t know if entries are tappable or just informational
 
 3.: Contacts/Messages: 
 - Contacts detail has „call“ and „message“ buttons
 - Messages chat doesn’t have these buttons
-- User expects consistent interaction patterns
+- -> User expects consistent interaction patterns
 
