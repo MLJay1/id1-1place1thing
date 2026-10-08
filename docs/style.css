@@ -32,7 +32,9 @@ body {
 .panel {
     padding: 0 18px;
     background-color: white;
-    max-height: 0;
-    transition: max-height 0.2s ease-out;
-    overflow: hidden;
+    display: none;
+}
+
+.panel.open {
+    display: block;
 }
