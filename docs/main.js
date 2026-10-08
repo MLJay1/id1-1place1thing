@@ -1,4 +1,5 @@
-﻿// javaScript für das akkordeon
+﻿
+// javaScript für das akkordeon
 
 document.querySelectorAll(".accordion").forEach(btn => {
     btn.addEventListener("click", () => {
