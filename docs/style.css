@@ -13,6 +13,7 @@ body {
     max-width: 60rem;
 }
 
+/*css sytling für das accordion*/
 .accordion {
     background-color: #eee;
     color: #444;
@@ -25,6 +26,7 @@ body {
     transition: 0.4s;
 }
 
+/*wenn über das accordion gehovert wird*/
 .active, .accordion:hover {
     background-color: #ccc;
 }
@@ -41,6 +43,7 @@ body {
     content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 
+/*inhalt vom accordion*/
 .panel {
     padding: 0 18px;
     background-color: white;
