@@ -2,12 +2,30 @@
     box-sizing: border-box;
 }
 
+h2,
+h3,
+h4 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-bottom: 3rem;
+}
+
+.author {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #444;
+    font-size: 0.8em;
+}
+
 .container {
     position: relative;
     width: 100%;
     max-width: 70%;
     /* margin: 0 auto; */
-    margin: 0px auto; /*  372px; */
+    margin: 0px auto;
+    /*  372px; */
     padding: 0 20px;
     box-sizing: border-box;
 }
@@ -56,12 +74,14 @@ Retrieved 2026-10-09, License - CC BY-SA 4.0
 }
 
 /*wenn über das accordion gehovert wird*/
-.active, .accordion:hover {
+.active,
+.accordion:hover {
     background-color: #ccc;
 }
 
 .accordion:after {
-    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    content: '\02795';
+    /* Unicode character for "plus" sign (+) */
     font-size: 13px;
     color: #777;
     float: right;
@@ -69,7 +89,8 @@ Retrieved 2026-10-09, License - CC BY-SA 4.0
 }
 
 .active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
+    content: "\2796";
+    /* Unicode character for "minus" sign (-) */
 }
 
 /*inhalt vom accordion*/
