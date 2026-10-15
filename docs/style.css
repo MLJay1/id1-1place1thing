@@ -6,6 +6,7 @@ h2,
 h3,
 h4 {
     margin-bottom: 0;
+    color: #444444;
 }
 
 p {
@@ -19,7 +20,9 @@ p {
     font-size: 0.8em;
 }
 
-
+img {
+    height: 500px;
+}
 
 .container {
     position: relative;
@@ -37,10 +40,10 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #777777;
-    color: white;
+    color: #444444;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    background-color: white;
 
 }
 
@@ -48,7 +51,9 @@ footer {
 body {
     margin: 100px;
     padding: 1rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #777777;
 }
 
 .diary-body {
@@ -64,8 +69,9 @@ body {
     cursor: pointer;
     padding: 18px;
     width: 100%;
-    font-size: 1.5em;
-    font-family: "Helvetica";
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
     text-align: left;
     border: none;
     outline: none;
