@@ -10,3 +10,10 @@ document.querySelectorAll(".accordion").forEach(btn => {
         btn.nextElementSibling.classList.toggle("open");
     });
 });
+
+// document.querySelectorAll(".id").forEach(lnk =>{
+//     lnk.addEventListener("click", () => {
+//         lnk.classList.toggle("active");
+//         lnk.nextElementSibling.classList.toggle("open");
+//     })
+// })
