@@ -1,5 +1,8 @@
-﻿* {
-    box-sizing: border-box;
+﻿/** {*/
+/*    box-sizing: border-box;*/
+/*}*/
+html {
+    scroll-behavior: smooth;
 }
 
 h2,
@@ -109,3 +112,4 @@ body {
 .panel.open {
     display: block;
 }
+
