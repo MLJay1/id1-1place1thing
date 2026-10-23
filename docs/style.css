@@ -1,8 +1,15 @@
-﻿/** {*/
-/*    box-sizing: border-box;*/
-/*}*/
+﻿* {
+    box-sizing: border-box;
+}
 html {
     scroll-behavior: smooth;
+}
+
+header {
+    margin: 4rem 0;
+    /*text-align: center;*/
+    font-size: 2rem;
+    color: #444;
 }
 
 h2,
@@ -30,7 +37,7 @@ img {
 .container {
     position: relative;
     width: 100%;
-    max-width: 70%;
+    max-width: 780px;
     /* margin: 0 auto; */
     margin: 0px auto;
     /*  372px; */
@@ -52,7 +59,7 @@ footer {
 
 
 body {
-    margin: 100px;
+    /*margin: 100px;*/
     padding: 1rem;
     font-family: sans-serif;
     font-weight: bold;
@@ -78,8 +85,11 @@ body {
     text-align: left;
     border: none;
     outline: none;
+}
 
-
+.accordion.active {
+    position: sticky;
+    top: 0;
 }
 
 /*wenn über das accordion gehovert wird*/
